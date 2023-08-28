@@ -1,0 +1,18 @@
+/* src/pages/DriverDashboard.css */
+.driver-dashboard {
+    padding: 20px;
+  }
+  
+  .available-packages,
+  .route-optimization,
+  .earnings-ratings,
+  .profile-settings,
+  .cancellation-interface,
+  .ai-calculation {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 15px;
+  }
+  
+  /* You can add more specific styling for each section here */
+  

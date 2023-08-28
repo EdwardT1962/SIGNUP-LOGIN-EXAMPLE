@@ -1,0 +1,31 @@
+/* src/components/RateCalculator.css */
+.rate-calculator {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .rate-calculator .input-field {
+    margin-bottom: 15px;
+  }
+  
+  .rate-calculator button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .rate-calculator button:hover {
+    background-color: #0056b3;
+  }
+  
+  .rate-calculator p {
+    margin-top: 15px;
+    font-weight: bold;
+  }
+  

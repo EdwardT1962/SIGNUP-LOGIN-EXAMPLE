@@ -1,0 +1,30 @@
+.communication-portal {
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  .conversation-history {
+    height: 300px;
+    overflow-y: scroll;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .message-input textarea {
+    width: 80%;
+    height: 50px;
+  }
+  
+  .message-input button {
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .notification {
+    background-color: #f44336;
+    color: white;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  

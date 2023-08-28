@@ -1,0 +1,11 @@
+/* src/components/InputField.css */
+.input-field label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .input-field input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }

@@ -1,0 +1,86 @@
+/* Banner Styling */
+.banner {
+    background-image: url('../assets/banner-image.png');
+    background-size: cover;
+    text-align: center;
+    padding: 100px 0;
+    color: #fff;
+  }
+  
+  .banner h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .banner p {
+    font-size: 18px;
+  }
+  
+  /* Packages Section Styling */
+  .packages {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 40px 0;
+  }
+  
+  .package-card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .package-card h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .package-card p {
+    font-size: 16px;
+  }
+  
+  /* Testimonials Carousel Styling */
+  .testimonials {
+    display: flex;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .testimonial-card {
+    flex: 0 0 33.333%;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .testimonial-card img {
+    max-width: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  
+  .testimonial-card h4 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .testimonial-card p {
+    font-size: 16px;
+  }
+  
+  /* Carousel Controls (Optional) */
+  .carousel-controls {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .carousel-controls button {
+    background: none;
+    border: none;
+    color: #333;
+    font-size: 24px;
+    cursor: pointer;
+  }
+  

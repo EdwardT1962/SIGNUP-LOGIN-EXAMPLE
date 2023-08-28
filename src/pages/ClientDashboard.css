@@ -1,0 +1,18 @@
+/* src/pages/ClientDashboard.css */
+.client-dashboard {
+    padding: 20px;
+  }
+  
+  .package-selection,
+  .booking-history,
+  .favorite-drivers,
+  .payment-management,
+  .profile-settings,
+  .cancellation-interface {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 15px;
+  }
+  
+  /* You can add more specific styling for each section here */
+  

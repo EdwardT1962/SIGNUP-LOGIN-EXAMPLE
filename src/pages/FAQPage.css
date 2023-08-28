@@ -1,0 +1,26 @@
+.faq-page .faq-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  .faq-page .faq-item h3 {
+    cursor: pointer;
+  }
+  
+  .faq-page .faq-item p {
+    display: none;
+  }
+  
+  .faq-page .faq-item p.active {
+    display: block;
+  }
+
+
+/* Style for the chatbot placeholder */
+.chatbot-placeholder {
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+  }
+  

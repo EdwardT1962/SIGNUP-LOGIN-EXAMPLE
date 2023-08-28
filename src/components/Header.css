@@ -1,0 +1,11 @@
+.header {
+    background-color: #f0f0f0;
+    padding: 10px;
+  }
+  
+  .header nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: #333;
+  }
+  
